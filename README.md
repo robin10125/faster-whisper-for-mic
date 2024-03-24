@@ -1,0 +1,1 @@
+Fork of https://github.com/guillaumekln/faster-whisper, simply modified to suit my needs for a real time mic transcription software.
